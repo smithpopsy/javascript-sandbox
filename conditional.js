@@ -1,4 +1,4 @@
-// conditional statement
+// conditional statement -used to perform an action based on the condition
 // control flow
 
 const myBalance = 30000;

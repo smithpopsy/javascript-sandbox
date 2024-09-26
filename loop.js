@@ -1,11 +1,27 @@
 // Loops/iteration/recursion ways to run repititive tasks
 // for loop , while loop , do-while loop
 
-// For (initializer; condition; increment){line of code}
+// For (initializer; condition; increment) break and continue{line of code}
 // infiniteloop
 
 for (let i = 0; i < 10; i++) {
     console.log('loop');
+    
+}
+
+
+for (let i = 0; i < 10; i++) {
+  if (i ===2){
+    break;
+  }  
+  console.log('loop');
+}
+
+for (let i = 0; i < 10; i++) {
+  if (i ===2){
+    break;
+  }  
+  console.log('loop');
 }
 
 // write a loop that return the sum of natrual numbers between 0 and 3

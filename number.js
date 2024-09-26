@@ -1,7 +1,7 @@
 // NUMBER 9 0.5 1197
 const myAge = 87;
 
-// number methods toFixed
+// number methods - toFixed
 const num = 9.5678;
 console.log(num.toFixed(0));
 console.log(num.toFixed(1));

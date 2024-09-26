@@ -11,11 +11,12 @@ const lastName = "smith"
 console.log(firstName);
 console.log(lastName);
 
-// string properties-lenght :
+// string properties
+// lenght : checks the number of characters in a string
 //  string.lenght
 console.log(firstName.length);
 console.log(lastName.length);
-// concatenation (joining)
+// concatenation (joining) strings togther 
 const fullName = firstName + " " + lastName;
 console.log(fullName);
 console.log(fullName.length);

@@ -5,6 +5,8 @@ console.log(10);
 // console.log(10);
 // VARIABLES x= 7 name = 'wale'
 // let const  var
+// let can be reassigned but can not redeclare
+// const can not be reassigned and redeclared
 
 // let x = 9;
 // x = 8;

@@ -21,3 +21,6 @@ myAtmPin === enteredPin
 myBalance >= transactionAmount
   ? console.log("Transaction successful")
   : console.log("Insufficient Funds");
+
+
+const passwordCheck2 = (value) => value.length >= 7 ? 'password is long enough' : 'password is short';

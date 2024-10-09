@@ -22,6 +22,7 @@ console.log(Math.random());
 // 0-5
 const randomNumber = Math.trunc(Math.random() *  6);
 console.log(randomNumber);
+// trunc- removes the decimal point
 
 const customers =  ['Timi', 'eniola', 'aisha', 'olumide', 'sesan' ];
 const numOfCustomers = customers.length;
